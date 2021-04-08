@@ -18,7 +18,7 @@ The functions you will use are:
 Hey, if you specify the wrong settings in define.h like the wrong NUMLEDS (or obviously STRIP_PIN) the strip. 
 will not work properly, so pay attention.
 
-Remember to use the strip_update() function every time you need or you will not see changes on the strip
+Remember to use the strip_update() function every time you need or you will not see changes on the strip.
 
 
 
